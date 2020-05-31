@@ -12,4 +12,29 @@ ul {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
+.main-text {
+        background:#f3cf7a;
+        padding: 20px;
+        text-align: center;
+}
+
+img {
+    width: 85%;
+    height: auto;
+}
+
+figcaption {
+    font-size: .9em;
+    font-style: italic;
+}
+
+section .introduction {
+        height: 200px;
+        border: 1px #0f0 solid;
+        padding: 15px;
+        margin: 10px;
+        text-align: center;
+        background: #00f;
+        color: #fff;
 }
