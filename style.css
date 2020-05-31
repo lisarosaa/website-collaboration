@@ -1,3 +1,73 @@
+body{
+    font-family: 'open-sans', sans-serif;
+    font-size: 15px;
+    line-height: 1em;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    margin: auto;
+}
+
+
+
+
+/* COMMON CLASSES */
+.primary-text{
+    color: rgb(50, 7, 206);
+}
+
+/* HEADER */
+#main-header{
+    border-bottom:  1px solid #ec0511;
+}
+
+
+/* showcase */
+
+#showcase{
+    border-bottom:  1px solid #1b078a;
+    margin-bottom: 20px;
+}
+
+#showcase .row{
+    height: 250px;
+}
+
+
+.primary-text{
+    color: greenyellow;
+    background-color: mediumblue;
+}
+
+
+#showcase .showcase-content{
+    background: rgb(135, 235, 185);
+    color: snow;
+    border-radius: 360px;
+    padding: 60px;
+    opacity: 15;
+}
+
+
+#showcase p{
+    font-size: 40px;
+    margin: 10;
+    color: rgb(185, 30, 126);
+    text-align: center;
+}
+
+
+#showcase h2{
+    font-size: 25px;
+    margin: 10;
+    color:rgb(26, 11, 230);
+    text-align: center;
+}
+
+
+/* contact-info*/
 .contact-info {
     background: navy;
     color:#fff;
@@ -37,4 +107,27 @@ section .introduction {
         text-align: center;
         background: #00f;
         color: #fff;
+}
+
+
+
+/* Media Queries */
+
+@media(max-width:800px){
+    #showcase h2{
+        font-size: 40px;
+    }
+}
+
+
+@media(max-width:800px){
+    #showcase p{
+        font-size: 20px;
+    }
+}
+
+@media(max-width:500px){
+    #showcase .showcase-content{
+        padding:40px 10px;
+    }
 }
