@@ -4,3 +4,13 @@
         padding: 20px;
         text-align: center;
 }
+
+img {
+    width: 85%;
+    height: auto;
+}
+
+figcaption {
+    font-size: .9em;
+    font-style: italic;
+}
