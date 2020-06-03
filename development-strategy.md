@@ -139,7 +139,7 @@ __As a site visitor, I want to know how I can contact the author__
 
 ## 6. Finishing Touches
 
-> assigned to __
+> assigned to Lisa
 
 __As a perfectionist, I want everything perfect :)__
 
