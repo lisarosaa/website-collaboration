@@ -31,6 +31,6 @@ Project is created with:
 ## Features
 More information about the project:
 - [Live](https://lisarosaa.github.io/website-collaboration/)
-- [Resources](hhttps://github.com/lisarosaa/website-collaboration)
+- [Resources](https://github.com/lisarosaa/website-collaboration)
 - [Development Strategy](https://github.com/lisarosaa/website-collaboration/blob/master/development-strategy.md)
 - [Project board](https://github.com/lisarosaa/website-collaboration/projects/1)
