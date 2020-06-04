@@ -41,19 +41,19 @@ body {
   color: snow;
   border-radius: 360px;
   padding: 60px;
-  opacity: 15;
+  opacity: 0.85;
 }
 
 #showcase p {
   font-size: 40px;
-  margin: 10;
+  margin: 10px;
   color: rgb(185, 30, 126);
   text-align: center;
 }
 
 #showcase h2 {
   font-size: 25px;
-  margin: 10;
+  margin: 10px;
   color: rgb(26, 11, 230);
   text-align: center;
 }
