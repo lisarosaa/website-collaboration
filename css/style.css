@@ -18,8 +18,23 @@ body {
 /* HEADER */
 #main-header {
   border-bottom: 1px solid #ec0511;
+  }
+
+/* Aside style */
+.aside {
+    width: 20%;
+    padding: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: #29627e;
 }
 
+.main-text {
+    width: 75%;
+    float: left;
+}
 /* showcase */
 
 #showcase {
@@ -119,3 +134,17 @@ section .introduction {
     padding: 40px 10px;
   }
 }
+/* Footer */
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+#content-wrap {
+  padding-bottom: 2.5rem;    
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 10px; 
+  }
